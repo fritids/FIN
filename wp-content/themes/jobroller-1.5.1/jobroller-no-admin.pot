@@ -1,0 +1,3856 @@
+# Translation of JobRoller
+# Copyright (C) 2010 JobRoller
+# This file can be distributed under the JobRoller terms
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JobRoller 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-14 16:45-0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: AppThemes\n"
+"Language-Team: AppThemes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:9
+msgid "Access Denied."
+msgstr ""
+
+#: 404.php:10
+msgid "Your site administrator has blocked your access to the WordPress back-office."
+msgstr ""
+
+#: 404.php:14
+msgid "No resumes exist"
+msgstr ""
+
+#: 404.php:15
+msgid "No resumes have been submitted yet. When a resume is submitted it will appear here."
+msgstr ""
+
+#: 404.php:19
+msgid "Sorry, Nothing was Found"
+msgstr ""
+
+#: 404.php:20
+msgid "The page, job, or post may have been moved or no longer exists."
+msgstr ""
+
+#: archive-resume.php:9
+msgid "Resumes"
+msgstr ""
+
+#: archive-resume.php:15
+#, php-format
+msgid " in the %s category."
+msgstr ""
+
+#: archive-resume.php:21
+#, php-format
+msgid " of people who speak %s."
+msgstr ""
+
+#: archive-resume.php:27
+#, php-format
+msgid " of people interested in %s."
+msgstr ""
+
+#: archive-resume.php:33
+#, php-format
+msgid " of members of %s."
+msgstr ""
+
+#: archive-resume.php:39
+#, php-format
+msgid " of people specialising in %s."
+msgstr ""
+
+#: archive-resume.php:45
+#, php-format
+msgid " of people wanting a %s job."
+msgstr ""
+
+#: archive-resume.php:66
+#, php-format
+msgid "Sorry, you do not have permission to browse and view resumes. Please <a href=\"%s\">login or register</a>."
+msgstr ""
+
+#: archive.php:12
+msgid "Posts Tagged"
+msgstr ""
+
+#: archive.php:15
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:24
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:27
+msgid "Blog Archives"
+msgstr ""
+
+#: author.php:21
+#, php-format
+msgid "Follow %s on Twitter"
+msgstr ""
+
+#: author.php:25
+#, php-format
+msgid "Add %s on Facebook"
+msgstr ""
+
+#: author.php:29
+#, php-format
+msgid "View %s on LinkedIn"
+msgstr ""
+
+#: author.php:42
+#, php-format
+msgid "%s's job listings"
+msgstr ""
+
+#: author.php:60
+#, php-format
+msgid "%s's resumes"
+msgstr ""
+
+#: comments-blog.php:11
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments-blog.php:14
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments-blog.php:29
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments-blog.php:47
+msgid "No Responses"
+msgstr ""
+
+#: comments-blog.php:47
+msgid "One Response"
+msgstr ""
+
+#: comments-blog.php:47
+msgid "% Responses"
+msgstr ""
+
+#: comments-blog.php:47
+msgid "to"
+msgstr ""
+
+#: comments-blog.php:68
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments-blog.php:82
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments-blog.php:83
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: header-resume-search.php:12
+msgid "Search Resumes"
+msgstr ""
+
+#: header-resume-search.php:13
+#: loop-resume.php:50
+msgid "Location"
+msgstr ""
+
+#: header-resume-search.php:14
+msgid "Go"
+msgstr ""
+
+#: header-search.php:11
+msgid "All Jobs"
+msgstr ""
+
+#: header.php:44
+msgid "Debug Mode On"
+msgstr ""
+
+#: index.php:35
+msgid "Latest Jobs RSS Feed"
+msgstr ""
+
+#: index.php:37
+msgid "Latest Jobs"
+msgstr ""
+
+#: index.php:40
+msgid "Remove Filters"
+msgstr ""
+
+#: loop-job.php:44
+msgid "Type"
+msgstr ""
+
+#: loop-job.php:47
+msgid "Job"
+msgstr ""
+
+#: loop-job.php:61
+msgid "Date Posted"
+msgstr ""
+
+#: loop-job.php:62
+msgid "j M"
+msgstr ""
+
+#: loop-job.php:62
+msgid "Y"
+msgstr ""
+
+#: loop-resume.php:27
+msgid "Resume title"
+msgstr ""
+
+#: loop-resume.php:34
+msgid "Resume posted by "
+msgstr ""
+
+#: loop-resume.php:38
+msgid " in "
+msgstr ""
+
+#: loop-resume.php:47
+msgid "Photo"
+msgstr ""
+
+#: search-resume.php:28
+#, php-format
+msgid "Searching resumes for &ldquo;%s&rdquo; "
+msgstr ""
+
+#: search-resume.php:30
+msgid "Searching resumes "
+msgstr ""
+
+#: search-resume.php:41
+msgid "within "
+msgstr ""
+
+#: search-resume.php:43
+msgid "of"
+msgstr ""
+
+#: search-resume.php:66
+msgid "page"
+msgstr ""
+
+#: search.php:31
+msgid "Searching for "
+msgstr ""
+
+#: search.php:58
+#, php-format
+msgid "Jobs within %s kilometers of %s"
+msgstr ""
+
+#: search.php:60
+#, php-format
+msgid "Jobs within %s miles of %s"
+msgstr ""
+
+#: search.php:67
+msgid "Search Results"
+msgstr ""
+
+#: single-job_listing.php:56
+msgid "Job Description"
+msgstr ""
+
+#: single-job_listing.php:68
+msgid "How to Apply"
+msgstr ""
+
+#: single-job_listing.php:73
+msgid "Job expires in"
+msgstr ""
+
+#: single-job_listing.php:92
+msgid "View &amp; Apply Online"
+msgstr ""
+
+#: single-job_listing.php:94
+msgid "Apply Online"
+msgstr ""
+
+#: single-job_listing.php:99
+msgid "Star Job"
+msgstr ""
+
+#: single-job_listing.php:101
+msgid "Un-star Job"
+msgstr ""
+
+#: single-job_listing.php:105
+msgid "Print Job"
+msgstr ""
+
+#: single-job_listing.php:107
+msgid "View Map"
+msgstr ""
+
+#: single-job_listing.php:109
+msgid "Share Job"
+msgstr ""
+
+#: single-resume.php:70
+msgid "Sorry, you do not have permission to view individual resumes."
+msgstr ""
+
+#: single-resume.php:84
+#, php-format
+msgid "Your resume is currently hidden &mdash; <a href=\"%s\">click here to publish it</a>."
+msgstr ""
+
+#: single-resume.php:99
+#, php-format
+msgid "<br/>Desired salary: <strong>%s</strong>. "
+msgstr ""
+
+#: single-resume.php:105
+#, php-format
+msgid "Desired position type: <strong>%s</strong>. "
+msgstr ""
+
+#: single-resume.php:107
+msgid "Desired position type: <strong>Any</strong>. "
+msgstr ""
+
+#: single-resume.php:111
+msgid "Location: "
+msgstr ""
+
+#: single-resume.php:125
+msgid "Email"
+msgstr ""
+
+#: single-resume.php:125
+msgid "Your Resume on"
+msgstr ""
+
+#: single-resume.php:126
+msgid "Tel"
+msgstr ""
+
+#: single-resume.php:127
+msgid "Mobile"
+msgstr ""
+
+#: single-resume.php:144
+msgid "+ Add Website"
+msgstr ""
+
+#: single-resume.php:157
+msgid "Summary"
+msgstr ""
+
+#: single-resume.php:168
+msgid "Specialities"
+msgstr ""
+
+#: single-resume.php:169
+msgid "Skills"
+msgstr ""
+
+#: single-resume.php:170
+msgid "Spoken Languages"
+msgstr ""
+
+#: single-resume.php:171
+msgid "Education"
+msgstr ""
+
+#: single-resume.php:172
+msgid "Experience"
+msgstr ""
+
+#: single-resume.php:173
+msgid "Groups &amp; Associations"
+msgstr ""
+
+#: single-resume.php:245
+msgid "Edit Resume&nbsp;&rarr;"
+msgstr ""
+
+#: single-resume.php:292
+msgid "Are you sure you want to delete this? This action cannot be undone..."
+msgstr ""
+
+#: single.php:59
+msgid "Subscribe to RSS Feed"
+msgstr ""
+
+#: single.php:60
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: single.php:91
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: taxonomy-job_cat.php:15
+#: taxonomy-job_tag.php:12
+msgid "Jobs RSS Feed"
+msgstr ""
+
+#: taxonomy-job_cat.php:15
+msgid "Jobs"
+msgstr ""
+
+#: taxonomy-job_salary.php:12
+msgid "Jobs with a salary of"
+msgstr ""
+
+#: taxonomy-job_tag.php:12
+msgid "Jobs tagged"
+msgstr ""
+
+#: tpl-add-new-confirm.php:31
+msgid "Return URL"
+msgstr ""
+
+#: tpl-add-new-confirm.php:63
+msgid "Thank You!"
+msgstr ""
+
+#: tpl-add-new-confirm.php:67
+msgid "Your payment has been processed and your job listing should now be live."
+msgstr ""
+
+#: tpl-add-new-confirm.php:69
+msgid "Visit the &quot;my jobs&quot; page to view or make any changes to your job listing."
+msgstr ""
+
+#: tpl-add-new-confirm.php:75
+msgid "An Error Has Occurred"
+msgstr ""
+
+#: tpl-add-new-confirm.php:79
+msgid "This job has already been published or you do not have permission to activate this job. Please contact the site admin if you are experiencing any issues."
+msgstr ""
+
+#: tpl-contact.php:33
+msgid "Required field \""
+msgstr ""
+
+#: tpl-contact.php:33
+msgid "\" missing."
+msgstr ""
+
+#: tpl-contact.php:38
+msgid "Invalid email address."
+msgstr ""
+
+#: tpl-contact.php:43
+msgid "Possible spam: You filled the honeypot spam-trap field!"
+msgstr ""
+
+#: tpl-contact.php:47
+msgid "Injection Exploit Detected: It seems that you&#8217;re possibly trying to apply a header or input injection exploit in our form. If you are, please stop at once! If not, please go back and check to make sure you haven&#8217;t entered <strong>content-type</strong>, <strong>to:</strong>, <strong>bcc:</strong>, <strong>cc:</strong>, <strong>document.cookie</strong>, <strong>document.write</strong>, <strong>onclick</strong>, or <strong>onload</strong> in any of the form inputs. If you have and you&#8217;re trying to send a legitimate message, for security reasons, please find another way of communicating these terms."
+msgstr ""
+
+#: tpl-contact.php:55
+msgid "Contact from"
+msgstr ""
+
+#: tpl-contact.php:82
+msgid "Thank you. Your message has been sent."
+msgstr ""
+
+#: tpl-contact.php:114
+msgid "Your Name/Company Name"
+msgstr ""
+
+#: tpl-contact.php:115
+msgid "Your email"
+msgstr ""
+
+#: tpl-contact.php:117
+msgid "Message"
+msgstr ""
+
+#: tpl-contact.php:119
+msgid "Submit"
+msgstr ""
+
+#: tpl-edit-job.php:69
+msgid "Relisting"
+msgstr ""
+
+#: tpl-edit-job.php:69
+msgid "Editing"
+msgstr ""
+
+#: tpl-edit-resume.php:115
+msgid "Edit Resume"
+msgstr ""
+
+#: tpl-edit-resume.php:115
+msgid "Add Resume"
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:36
+msgid "Resume deleted."
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:62
+msgid "Resume visibility modified."
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:70
+#, php-format
+msgid "%s's Dashboard"
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:83
+msgid "Dashboard"
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:85
+msgid "Preferences"
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:93
+msgid "Starred Jobs"
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:108
+msgid "You have not starred any jobs yet. You can star jobs from the individual job listing pages."
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:112
+msgid "Recently Viewed Jobs"
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:127
+msgid "You have not viewed any jobs yet. When you do, the 5 most recent will display here."
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:131
+msgid "Job Recommendations"
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:206
+msgid "You don't have any recommendations: try adjusting your preferences in order to get more results."
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:214
+msgid "My Resumes"
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:215
+msgid "Your resumes are displayed below. From this page you can create a new resume, edit a resume, and set whether or not it is visible on the site or private."
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:220
+msgid "Resume Name"
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:221
+msgid "Date Created"
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:222
+msgid "Last Modified"
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:223
+msgid "Views"
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:224
+msgid "Visibility"
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:225
+#: tpl-myjobs.php:309
+msgid "Actions"
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:257
+msgid "Edit&nbsp;&rarr;"
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:257
+msgid "Publish"
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:257
+msgid "Hide"
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:257
+msgid "Delete"
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:264
+msgid "No resumes found."
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:274
+msgid "Add Resume &raquo;"
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:281
+msgid "My Preferences"
+msgstr ""
+
+#: tpl-job-seeker-dashboard.php:307
+msgid "Are you sure you want to delete this resume? This action cannot be undone."
+msgstr ""
+
+#: tpl-jobs-by-date.php:25
+msgid "This weeks Jobs"
+msgstr ""
+
+#: tpl-jobs-by-date.php:29
+msgid "Last weeks Jobs"
+msgstr ""
+
+#: tpl-jobs-by-date.php:41
+msgid "Todays Jobs"
+msgstr ""
+
+#: tpl-jobs-by-date.php:45
+msgid "This Months Jobs"
+msgstr ""
+
+#: tpl-myjobs.php:44
+msgid "Job listing was ended early."
+msgstr ""
+
+#: tpl-myjobs.php:58
+msgid "Are you sure you want to end "
+msgstr ""
+
+#: tpl-myjobs.php:59
+msgid "Yes"
+msgstr ""
+
+#: tpl-myjobs.php:59
+msgid "No"
+msgstr ""
+
+#: tpl-myjobs.php:101
+msgid "Live"
+msgstr ""
+
+#: tpl-myjobs.php:102
+msgid "Pending"
+msgstr ""
+
+#: tpl-myjobs.php:103
+msgid "Ended/Expired"
+msgstr ""
+
+#: tpl-myjobs.php:104
+msgid "Job Packs"
+msgstr ""
+
+#: tpl-myjobs.php:109
+msgid "Live Jobs"
+msgstr ""
+
+#: tpl-myjobs.php:111
+msgid "Below you will find a list of jobs you have previously posted which are visible on the site."
+msgstr ""
+
+#: tpl-myjobs.php:116
+msgid "Job Title"
+msgstr ""
+
+#: tpl-myjobs.php:118
+msgid "Days Remaining"
+msgstr ""
+
+#: tpl-myjobs.php:152
+msgid "End"
+msgstr ""
+
+#: tpl-myjobs.php:159
+msgid "No live jobs found."
+msgstr ""
+
+#: tpl-myjobs.php:173
+msgid "My Packs"
+msgstr ""
+
+#: tpl-myjobs.php:178
+msgid "Below you will find a list of active packs you have purchased."
+msgstr ""
+
+#: tpl-myjobs.php:185
+msgid "Unlimited"
+msgstr ""
+
+#: tpl-myjobs.php:185
+msgid "Jobs remaining"
+msgstr ""
+
+#: tpl-myjobs.php:188
+msgid "Job remaining"
+msgstr ""
+
+#: tpl-myjobs.php:192
+msgid "Usable before "
+msgstr ""
+
+#: tpl-myjobs.php:194
+msgid " lasting "
+msgstr ""
+
+#: tpl-myjobs.php:194
+msgid " days"
+msgstr ""
+
+#: tpl-myjobs.php:196
+msgid "Purchased"
+msgstr ""
+
+#: tpl-myjobs.php:204
+msgid "No active packs found."
+msgstr ""
+
+#: tpl-myjobs.php:213
+msgid "Pending Jobs"
+msgstr ""
+
+#: tpl-myjobs.php:228
+msgid "The following jobs are pending and are not visible to users."
+msgstr ""
+
+#: tpl-myjobs.php:235
+msgid "Status"
+msgstr ""
+
+#: tpl-myjobs.php:249
+msgid "Pending Payment"
+msgstr ""
+
+#: tpl-myjobs.php:251
+msgid "Pending Approval"
+msgstr ""
+
+#: tpl-myjobs.php:259
+msgid "Pay&nbsp;&rarr;"
+msgstr ""
+
+#: tpl-myjobs.php:264
+msgid "Cancel"
+msgstr ""
+
+#: tpl-myjobs.php:271
+msgid "No pending jobs found."
+msgstr ""
+
+#: tpl-myjobs.php:298
+msgid "Ended/Expired Jobs"
+msgstr ""
+
+#: tpl-myjobs.php:300
+msgid "The following jobs have expired or have been ended and are not visible to users."
+msgstr ""
+
+#: tpl-myjobs.php:325
+msgid "Ended (order incomplete)"
+msgstr ""
+
+#: tpl-myjobs.php:327
+msgid "Ended"
+msgstr ""
+
+#: tpl-myjobs.php:335
+msgid "Relist&nbsp;&rarr;"
+msgstr ""
+
+#: tpl-myjobs.php:343
+msgid "Expired"
+msgstr ""
+
+#: tpl-myjobs.php:353
+msgid "No jobs found."
+msgstr ""
+
+#: tpl-myjobs.php:365
+msgid "Are you sure you want to end this job listing? This action cannot be undone."
+msgstr ""
+
+#: tpl-profile.php:49
+#, php-format
+msgid "%s's Profile"
+msgstr ""
+
+#: tpl-profile.php:54
+msgid "Your profile has been updated."
+msgstr ""
+
+#: tpl-profile.php:69
+msgid "Your Details"
+msgstr ""
+
+#: tpl-profile.php:71
+msgid "First Name"
+msgstr ""
+
+#: tpl-profile.php:73
+msgid "Last Name"
+msgstr ""
+
+#: tpl-profile.php:75
+msgid "Nickname/Company Name"
+msgstr ""
+
+#: tpl-profile.php:77
+msgid "Display Name"
+msgstr ""
+
+#: tpl-profile.php:100
+msgid "Websites &amp; Social media"
+msgstr ""
+
+#: tpl-profile.php:102
+msgid "Website"
+msgstr ""
+
+#: tpl-profile.php:104
+msgid "Twitter ID"
+msgstr ""
+
+#: tpl-profile.php:106
+msgid "Facebook ID"
+msgstr ""
+
+#: tpl-profile.php:108
+msgid "LinkedIn profile URL"
+msgstr ""
+
+#: tpl-profile.php:113
+msgid "Profile"
+msgstr ""
+
+#: tpl-profile.php:115
+msgid "Enter a description below; this information will appear on your profile."
+msgstr ""
+
+#: tpl-profile.php:117
+msgid "Profile content"
+msgstr ""
+
+#: tpl-profile.php:126
+msgid "Change password"
+msgstr ""
+
+#: tpl-profile.php:127
+msgid "Leave this field blank unless you would like to change your password."
+msgstr ""
+
+#: tpl-profile.php:127
+msgid "Your password should be at least seven characters long."
+msgstr ""
+
+#: tpl-profile.php:129
+msgid "New Password"
+msgstr ""
+
+#: tpl-profile.php:131
+msgid "Password Again"
+msgstr ""
+
+#: tpl-profile.php:133
+msgid "Strength indicator"
+msgstr ""
+
+#: tpl-profile.php:145
+msgid "Update Profile &raquo;"
+msgstr ""
+
+#: tpl-profile.php:193
+msgid "Very weak"
+msgstr ""
+
+#: tpl-profile.php:194
+msgid "Weak"
+msgstr ""
+
+#: tpl-profile.php:195
+msgid "Medium"
+msgstr ""
+
+#: tpl-profile.php:196
+msgid "Strong"
+msgstr ""
+
+#: tpl-profile.php:197
+msgid "Mismatch"
+msgstr ""
+
+#: tpl-submit.php:70
+msgid "Thank you for registering! An email has been sent to you containing your password."
+msgstr ""
+
+#: tpl-submit.php:80
+msgid "Submit a Job"
+msgstr ""
+
+#: tpl-submit.php:94
+msgid "Create account"
+msgstr ""
+
+#: tpl-submit.php:95
+msgid "Enter Job Details"
+msgstr ""
+
+#: tpl-submit.php:96
+msgid "Preview/Job Options"
+msgstr ""
+
+#: tpl-submit.php:97
+msgid "Confirm"
+msgstr ""
+
+#: tpl-submit.php:113
+msgid "You must login or create an account in order to post a job &mdash; this will enable you to view, remove, or relist your listing in the future."
+msgstr ""
+
+#: framework/admin/dashboard.php:18
+msgid "Latest News"
+msgstr ""
+
+#: framework/admin/dashboard.php:19
+msgid "Latest Tweets"
+msgstr ""
+
+#: framework/admin/dashboard.php:20
+msgid "Support Forum"
+msgstr ""
+
+#: framework/admin/importer.php:85
+msgid "Import CSV"
+msgstr ""
+
+#: framework/admin/importer.php:101
+msgid "Below you will find the AppThemes import tool which allows you to import items from other systems via a .csv (comma-separated values) document. This is usually done with an Excel spreadsheet saved as a .csv. The formatting of the .csv file must be mapped correctly otherwise the import tool will not work. Use the .csv templates found in the \"examples\" theme folder."
+msgstr ""
+
+#: framework/admin/importer.php:102
+msgid "Choose a CSV file to upload, then click Upload file and import."
+msgstr ""
+
+#: framework/admin/importer.php:136
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: framework/admin/importer.php:144
+#, php-format
+msgid "All done. <a href=\"%s\">Have fun!</a>"
+msgstr ""
+
+#: framework/admin/updater.php:67
+#, php-format
+msgid "<strong>IMPORTANT</strong>: If you have made any modifications to the AppThemes files, they will be overwritten if you proceed with the automatic update. Those with modified theme files should do a manual update instead. Visit your <a href=\"%1$s\" target=\"_blank\">customer dashboard</a> to download the latest version."
+msgstr ""
+
+#: framework/scb/AdminPage.php:163
+msgid "Settings <strong>saved</strong>."
+msgstr ""
+
+#: framework/scb/AdminPage.php:176
+msgid "Save Changes"
+msgstr ""
+
+#: framework/scb/AdminPage.php:348
+msgid "Settings"
+msgstr ""
+
+#: includes/appthemes-functions.php:115
+msgid "Type the two words:"
+msgstr ""
+
+#: includes/appthemes-functions.php:116
+msgid "Type what you hear:"
+msgstr ""
+
+#: includes/appthemes-functions.php:117
+msgid "Play sound again"
+msgstr ""
+
+#: includes/appthemes-functions.php:118
+msgid "Download sound as MP3"
+msgstr ""
+
+#: includes/appthemes-functions.php:119
+msgid "Visual challenge"
+msgstr ""
+
+#: includes/appthemes-functions.php:120
+msgid "Audio challenge"
+msgstr ""
+
+#: includes/appthemes-functions.php:121
+msgid "Get two new words"
+msgstr ""
+
+#: includes/appthemes-functions.php:122
+msgid "Help"
+msgstr ""
+
+#: includes/appthemes-functions.php:123
+msgid "Incorrect. Try again."
+msgstr ""
+
+#: includes/appthemes-functions.php:163
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: includes/appthemes-functions.php:227
+msgid "total views"
+msgstr ""
+
+#: includes/appthemes-functions.php:227
+msgid "today"
+msgstr ""
+
+#: includes/appthemes-functions.php:229
+msgid "no views yet"
+msgstr ""
+
+#: includes/appthemes-functions.php:571
+msgid "Perhaps you meant"
+msgstr ""
+
+#: includes/appthemes-functions.php:588
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: includes/appthemes-functions.php:591
+msgid "&lsaquo;&lsaquo; First"
+msgstr ""
+
+#: includes/appthemes-functions.php:592
+msgid "Last &rsaquo;&rsaquo;"
+msgstr ""
+
+#: includes/appthemes-functions.php:723
+#, php-format
+msgid "Table '%s' has been deleted."
+msgstr ""
+
+#: includes/appthemes-functions.php:739
+msgid "All theme options have been deleted."
+msgstr ""
+
+#: includes/appthemes-functions.php:825
+msgid "Once Weekly"
+msgstr ""
+
+#: includes/appthemes-functions.php:930
+#, php-format
+msgid "%1$s version %2$s is now available! Customers with a current subscription may <a href=\"%3$s\" target=\"_blank\">download it now</a>."
+msgstr ""
+
+#: includes/appthemes-functions.php:932
+#, php-format
+msgid "%1$s version %2$s is now available! Please notify the site administrator."
+msgstr ""
+
+#: includes/countries.php:5
+msgid "Anywhere"
+msgstr ""
+
+#: includes/countries.php:6
+msgid "Afganistan"
+msgstr ""
+
+#: includes/countries.php:7
+msgid "Albania"
+msgstr ""
+
+#: includes/countries.php:8
+msgid "Algeria"
+msgstr ""
+
+#: includes/countries.php:9
+msgid "American Samoa"
+msgstr ""
+
+#: includes/countries.php:10
+msgid "Andorra"
+msgstr ""
+
+#: includes/countries.php:11
+msgid "Angola"
+msgstr ""
+
+#: includes/countries.php:12
+msgid "Anguilla"
+msgstr ""
+
+#: includes/countries.php:13
+msgid "Antarctica"
+msgstr ""
+
+#: includes/countries.php:14
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: includes/countries.php:15
+msgid "Argentina"
+msgstr ""
+
+#: includes/countries.php:16
+msgid "Armenia"
+msgstr ""
+
+#: includes/countries.php:17
+msgid "Aruba"
+msgstr ""
+
+#: includes/countries.php:18
+msgid "Australia"
+msgstr ""
+
+#: includes/countries.php:19
+msgid "Austria"
+msgstr ""
+
+#: includes/countries.php:20
+msgid "Azerbaijan"
+msgstr ""
+
+#: includes/countries.php:21
+msgid "Bahamas"
+msgstr ""
+
+#: includes/countries.php:22
+msgid "Bahrain"
+msgstr ""
+
+#: includes/countries.php:23
+msgid "Bangladesh"
+msgstr ""
+
+#: includes/countries.php:24
+msgid "Barbados"
+msgstr ""
+
+#: includes/countries.php:25
+msgid "Belarus"
+msgstr ""
+
+#: includes/countries.php:26
+msgid "Belgium"
+msgstr ""
+
+#: includes/countries.php:27
+msgid "Belize"
+msgstr ""
+
+#: includes/countries.php:28
+msgid "Benin"
+msgstr ""
+
+#: includes/countries.php:29
+msgid "Bermuda"
+msgstr ""
+
+#: includes/countries.php:30
+msgid "Bhutan"
+msgstr ""
+
+#: includes/countries.php:31
+msgid "Bolivia"
+msgstr ""
+
+#: includes/countries.php:32
+msgid "Bosnia and Herzegowina"
+msgstr ""
+
+#: includes/countries.php:33
+msgid "Botswana"
+msgstr ""
+
+#: includes/countries.php:34
+msgid "Bouvet Island"
+msgstr ""
+
+#: includes/countries.php:35
+msgid "Brazil"
+msgstr ""
+
+#: includes/countries.php:36
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: includes/countries.php:37
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: includes/countries.php:38
+msgid "Bulgaria"
+msgstr ""
+
+#: includes/countries.php:39
+msgid "Burkina Faso"
+msgstr ""
+
+#: includes/countries.php:40
+msgid "Burundi"
+msgstr ""
+
+#: includes/countries.php:41
+msgid "Cambodia"
+msgstr ""
+
+#: includes/countries.php:42
+msgid "Cameroon"
+msgstr ""
+
+#: includes/countries.php:43
+msgid "Canada"
+msgstr ""
+
+#: includes/countries.php:44
+msgid "Cape Verde"
+msgstr ""
+
+#: includes/countries.php:45
+msgid "Cayman Islands"
+msgstr ""
+
+#: includes/countries.php:46
+msgid "Central African Republic"
+msgstr ""
+
+#: includes/countries.php:47
+msgid "Chad"
+msgstr ""
+
+#: includes/countries.php:48
+msgid "Chile"
+msgstr ""
+
+#: includes/countries.php:49
+msgid "China"
+msgstr ""
+
+#: includes/countries.php:50
+msgid "Christmas Island"
+msgstr ""
+
+#: includes/countries.php:51
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: includes/countries.php:52
+msgid "Colombia"
+msgstr ""
+
+#: includes/countries.php:53
+msgid "Comoros"
+msgstr ""
+
+#: includes/countries.php:54
+msgid "Congo"
+msgstr ""
+
+#: includes/countries.php:55
+msgid "Congo, the Democratic Republic of the"
+msgstr ""
+
+#: includes/countries.php:56
+msgid "Cook Islands"
+msgstr ""
+
+#: includes/countries.php:57
+msgid "Costa Rica"
+msgstr ""
+
+#: includes/countries.php:58
+msgid "Cote d'Ivoire"
+msgstr ""
+
+#: includes/countries.php:59
+msgid "Croatia (Hrvatska)"
+msgstr ""
+
+#: includes/countries.php:60
+msgid "Cuba"
+msgstr ""
+
+#: includes/countries.php:61
+msgid "Cyprus"
+msgstr ""
+
+#: includes/countries.php:62
+msgid "Czech Republic"
+msgstr ""
+
+#: includes/countries.php:63
+msgid "Denmark"
+msgstr ""
+
+#: includes/countries.php:64
+msgid "Djibouti"
+msgstr ""
+
+#: includes/countries.php:65
+msgid "Dominica"
+msgstr ""
+
+#: includes/countries.php:66
+msgid "Dominican Republic"
+msgstr ""
+
+#: includes/countries.php:67
+msgid "East Timor"
+msgstr ""
+
+#: includes/countries.php:68
+msgid "Ecuador"
+msgstr ""
+
+#: includes/countries.php:69
+msgid "Egypt"
+msgstr ""
+
+#: includes/countries.php:70
+msgid "El Salvador"
+msgstr ""
+
+#: includes/countries.php:71
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: includes/countries.php:72
+msgid "Eritrea"
+msgstr ""
+
+#: includes/countries.php:73
+msgid "Estonia"
+msgstr ""
+
+#: includes/countries.php:74
+msgid "Ethiopia"
+msgstr ""
+
+#: includes/countries.php:75
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+#: includes/countries.php:76
+msgid "Faroe Islands"
+msgstr ""
+
+#: includes/countries.php:77
+msgid "Fiji"
+msgstr ""
+
+#: includes/countries.php:78
+msgid "Finland"
+msgstr ""
+
+#: includes/countries.php:79
+msgid "France"
+msgstr ""
+
+#: includes/countries.php:80
+msgid "France, Metropolitan"
+msgstr ""
+
+#: includes/countries.php:81
+msgid "French Guiana"
+msgstr ""
+
+#: includes/countries.php:82
+msgid "French Polynesia"
+msgstr ""
+
+#: includes/countries.php:83
+msgid "French Southern Territories"
+msgstr ""
+
+#: includes/countries.php:84
+msgid "Gabon"
+msgstr ""
+
+#: includes/countries.php:85
+msgid "Gambia"
+msgstr ""
+
+#: includes/countries.php:86
+msgid "Georgia"
+msgstr ""
+
+#: includes/countries.php:87
+msgid "Germany"
+msgstr ""
+
+#: includes/countries.php:88
+msgid "Ghana"
+msgstr ""
+
+#: includes/countries.php:89
+msgid "Gibraltar"
+msgstr ""
+
+#: includes/countries.php:90
+msgid "Greece"
+msgstr ""
+
+#: includes/countries.php:91
+msgid "Greenland"
+msgstr ""
+
+#: includes/countries.php:92
+msgid "Grenada"
+msgstr ""
+
+#: includes/countries.php:93
+msgid "Guadeloupe"
+msgstr ""
+
+#: includes/countries.php:94
+msgid "Guam"
+msgstr ""
+
+#: includes/countries.php:95
+msgid "Guatemala"
+msgstr ""
+
+#: includes/countries.php:96
+msgid "Guinea"
+msgstr ""
+
+#: includes/countries.php:97
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: includes/countries.php:98
+msgid "Guyana"
+msgstr ""
+
+#: includes/countries.php:99
+msgid "Haiti"
+msgstr ""
+
+#: includes/countries.php:100
+msgid "Heard and Mc Donald Islands"
+msgstr ""
+
+#: includes/countries.php:101
+msgid "Holy See (Vatican City State)"
+msgstr ""
+
+#: includes/countries.php:102
+msgid "Honduras"
+msgstr ""
+
+#: includes/countries.php:103
+msgid "Hong Kong"
+msgstr ""
+
+#: includes/countries.php:104
+msgid "Hungary"
+msgstr ""
+
+#: includes/countries.php:105
+msgid "Iceland"
+msgstr ""
+
+#: includes/countries.php:106
+msgid "India"
+msgstr ""
+
+#: includes/countries.php:107
+msgid "Indonesia"
+msgstr ""
+
+#: includes/countries.php:108
+msgid "Iran (Islamic Republic of)"
+msgstr ""
+
+#: includes/countries.php:109
+msgid "Iraq"
+msgstr ""
+
+#: includes/countries.php:110
+msgid "Ireland"
+msgstr ""
+
+#: includes/countries.php:111
+msgid "Israel"
+msgstr ""
+
+#: includes/countries.php:112
+msgid "Italy"
+msgstr ""
+
+#: includes/countries.php:113
+msgid "Jamaica"
+msgstr ""
+
+#: includes/countries.php:114
+msgid "Japan"
+msgstr ""
+
+#: includes/countries.php:115
+msgid "Jordan"
+msgstr ""
+
+#: includes/countries.php:116
+msgid "Kazakhstan"
+msgstr ""
+
+#: includes/countries.php:117
+msgid "Kenya"
+msgstr ""
+
+#: includes/countries.php:118
+msgid "Kiribati"
+msgstr ""
+
+#: includes/countries.php:119
+msgid "Korea, Democratic People's Republic of"
+msgstr ""
+
+#: includes/countries.php:120
+msgid "Korea, Republic of"
+msgstr ""
+
+#: includes/countries.php:121
+msgid "Kuwait"
+msgstr ""
+
+#: includes/countries.php:122
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: includes/countries.php:123
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: includes/countries.php:124
+msgid "Latvia"
+msgstr ""
+
+#: includes/countries.php:125
+msgid "Lebanon"
+msgstr ""
+
+#: includes/countries.php:126
+msgid "Lesotho"
+msgstr ""
+
+#: includes/countries.php:127
+msgid "Liberia"
+msgstr ""
+
+#: includes/countries.php:128
+msgid "Libyan Arab Jamahiriya"
+msgstr ""
+
+#: includes/countries.php:129
+msgid "Liechtenstein"
+msgstr ""
+
+#: includes/countries.php:130
+msgid "Lithuania"
+msgstr ""
+
+#: includes/countries.php:131
+msgid "Luxembourg"
+msgstr ""
+
+#: includes/countries.php:132
+msgid "Macau"
+msgstr ""
+
+#: includes/countries.php:133
+msgid "Macedonia, The Former Yugoslav Republic of"
+msgstr ""
+
+#: includes/countries.php:134
+msgid "Madagascar"
+msgstr ""
+
+#: includes/countries.php:135
+msgid "Malawi"
+msgstr ""
+
+#: includes/countries.php:136
+msgid "Malaysia"
+msgstr ""
+
+#: includes/countries.php:137
+msgid "Maldives"
+msgstr ""
+
+#: includes/countries.php:138
+msgid "Mali"
+msgstr ""
+
+#: includes/countries.php:139
+msgid "Malta"
+msgstr ""
+
+#: includes/countries.php:140
+msgid "Marshall Islands"
+msgstr ""
+
+#: includes/countries.php:141
+msgid "Martinique"
+msgstr ""
+
+#: includes/countries.php:142
+msgid "Mauritania"
+msgstr ""
+
+#: includes/countries.php:143
+msgid "Mauritius"
+msgstr ""
+
+#: includes/countries.php:144
+msgid "Mayotte"
+msgstr ""
+
+#: includes/countries.php:145
+msgid "Mexico"
+msgstr ""
+
+#: includes/countries.php:146
+msgid "Micronesia, Federated States of"
+msgstr ""
+
+#: includes/countries.php:147
+msgid "Moldova, Republic of"
+msgstr ""
+
+#: includes/countries.php:148
+msgid "Monaco"
+msgstr ""
+
+#: includes/countries.php:149
+msgid "Mongolia"
+msgstr ""
+
+#: includes/countries.php:150
+msgid "Montserrat"
+msgstr ""
+
+#: includes/countries.php:151
+msgid "Morocco"
+msgstr ""
+
+#: includes/countries.php:152
+msgid "Mozambique"
+msgstr ""
+
+#: includes/countries.php:153
+msgid "Myanmar"
+msgstr ""
+
+#: includes/countries.php:154
+msgid "Namibia"
+msgstr ""
+
+#: includes/countries.php:155
+msgid "Nauru"
+msgstr ""
+
+#: includes/countries.php:156
+msgid "Nepal"
+msgstr ""
+
+#: includes/countries.php:157
+msgid "Netherlands"
+msgstr ""
+
+#: includes/countries.php:158
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: includes/countries.php:159
+msgid "New Caledonia"
+msgstr ""
+
+#: includes/countries.php:160
+msgid "New Zealand"
+msgstr ""
+
+#: includes/countries.php:161
+msgid "Nicaragua"
+msgstr ""
+
+#: includes/countries.php:162
+msgid "Niger"
+msgstr ""
+
+#: includes/countries.php:163
+msgid "Nigeria"
+msgstr ""
+
+#: includes/countries.php:164
+msgid "Niue"
+msgstr ""
+
+#: includes/countries.php:165
+msgid "Norfolk Island"
+msgstr ""
+
+#: includes/countries.php:166
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: includes/countries.php:167
+msgid "Norway"
+msgstr ""
+
+#: includes/countries.php:168
+msgid "Oman"
+msgstr ""
+
+#: includes/countries.php:169
+msgid "Pakistan"
+msgstr ""
+
+#: includes/countries.php:170
+msgid "Palau"
+msgstr ""
+
+#: includes/countries.php:171
+msgid "Panama"
+msgstr ""
+
+#: includes/countries.php:172
+msgid "Papua New Guinea"
+msgstr ""
+
+#: includes/countries.php:173
+msgid "Paraguay"
+msgstr ""
+
+#: includes/countries.php:174
+msgid "Peru"
+msgstr ""
+
+#: includes/countries.php:175
+msgid "Philippines"
+msgstr ""
+
+#: includes/countries.php:176
+msgid "Pitcairn"
+msgstr ""
+
+#: includes/countries.php:177
+msgid "Poland"
+msgstr ""
+
+#: includes/countries.php:178
+msgid "Portugal"
+msgstr ""
+
+#: includes/countries.php:179
+msgid "Puerto Rico"
+msgstr ""
+
+#: includes/countries.php:180
+msgid "Qatar"
+msgstr ""
+
+#: includes/countries.php:181
+msgid "Reunion"
+msgstr ""
+
+#: includes/countries.php:182
+msgid "Romania"
+msgstr ""
+
+#: includes/countries.php:183
+msgid "Russian Federation"
+msgstr ""
+
+#: includes/countries.php:184
+msgid "Rwanda"
+msgstr ""
+
+#: includes/countries.php:185
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: includes/countries.php:186
+msgid "Saint LUCIA"
+msgstr ""
+
+#: includes/countries.php:187
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: includes/countries.php:188
+msgid "Samoa"
+msgstr ""
+
+#: includes/countries.php:189
+msgid "San Marino"
+msgstr ""
+
+#: includes/countries.php:190
+msgid "Sao Tome and Principe"
+msgstr ""
+
+#: includes/countries.php:191
+msgid "Saudi Arabia"
+msgstr ""
+
+#: includes/countries.php:192
+msgid "Senegal"
+msgstr ""
+
+#: includes/countries.php:193
+msgid "Seychelles"
+msgstr ""
+
+#: includes/countries.php:194
+msgid "Sierra Leone"
+msgstr ""
+
+#: includes/countries.php:195
+msgid "Singapore"
+msgstr ""
+
+#: includes/countries.php:196
+msgid "Slovakia (Slovak Republic)"
+msgstr ""
+
+#: includes/countries.php:197
+msgid "Slovenia"
+msgstr ""
+
+#: includes/countries.php:198
+msgid "Solomon Islands"
+msgstr ""
+
+#: includes/countries.php:199
+msgid "Somalia"
+msgstr ""
+
+#: includes/countries.php:200
+msgid "South Africa"
+msgstr ""
+
+#: includes/countries.php:201
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+#: includes/countries.php:202
+msgid "Spain"
+msgstr ""
+
+#: includes/countries.php:203
+msgid "Sri Lanka"
+msgstr ""
+
+#: includes/countries.php:204
+msgid "St. Helena"
+msgstr ""
+
+#: includes/countries.php:205
+msgid "St. Pierre and Miquelon"
+msgstr ""
+
+#: includes/countries.php:206
+msgid "Sudan"
+msgstr ""
+
+#: includes/countries.php:207
+msgid "Suriname"
+msgstr ""
+
+#: includes/countries.php:208
+msgid "Svalbard and Jan Mayen Islands"
+msgstr ""
+
+#: includes/countries.php:209
+msgid "Swaziland"
+msgstr ""
+
+#: includes/countries.php:210
+msgid "Sweden"
+msgstr ""
+
+#: includes/countries.php:211
+msgid "Switzerland"
+msgstr ""
+
+#: includes/countries.php:212
+msgid "Syrian Arab Republic"
+msgstr ""
+
+#: includes/countries.php:213
+msgid "Taiwan, Province of China"
+msgstr ""
+
+#: includes/countries.php:214
+msgid "Tajikistan"
+msgstr ""
+
+#: includes/countries.php:215
+msgid "Tanzania, United Republic of"
+msgstr ""
+
+#: includes/countries.php:216
+msgid "Thailand"
+msgstr ""
+
+#: includes/countries.php:217
+msgid "Togo"
+msgstr ""
+
+#: includes/countries.php:218
+msgid "Tokelau"
+msgstr ""
+
+#: includes/countries.php:219
+msgid "Tonga"
+msgstr ""
+
+#: includes/countries.php:220
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: includes/countries.php:221
+msgid "Tunisia"
+msgstr ""
+
+#: includes/countries.php:222
+msgid "Turkey"
+msgstr ""
+
+#: includes/countries.php:223
+msgid "Turkmenistan"
+msgstr ""
+
+#: includes/countries.php:224
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: includes/countries.php:225
+msgid "Tuvalu"
+msgstr ""
+
+#: includes/countries.php:226
+msgid "Uganda"
+msgstr ""
+
+#: includes/countries.php:227
+msgid "Ukraine"
+msgstr ""
+
+#: includes/countries.php:228
+msgid "United Arab Emirates"
+msgstr ""
+
+#: includes/countries.php:229
+msgid "United Kingdom"
+msgstr ""
+
+#: includes/countries.php:230
+msgid "United States"
+msgstr ""
+
+#: includes/countries.php:231
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+#: includes/countries.php:232
+msgid "Uruguay"
+msgstr ""
+
+#: includes/countries.php:233
+msgid "Uzbekistan"
+msgstr ""
+
+#: includes/countries.php:234
+msgid "Vanuatu"
+msgstr ""
+
+#: includes/countries.php:235
+msgid "Venezuela"
+msgstr ""
+
+#: includes/countries.php:236
+msgid "Viet Nam"
+msgstr ""
+
+#: includes/countries.php:237
+msgid "Virgin Islands (British)"
+msgstr ""
+
+#: includes/countries.php:238
+msgid "Virgin Islands (U.S.)"
+msgstr ""
+
+#: includes/countries.php:239
+msgid "Wallis and Futuna Islands"
+msgstr ""
+
+#: includes/countries.php:240
+msgid "Western Sahara"
+msgstr ""
+
+#: includes/countries.php:241
+msgid "Yemen"
+msgstr ""
+
+#: includes/countries.php:242
+msgid "Yugoslavia"
+msgstr ""
+
+#: includes/countries.php:243
+msgid "Zambia"
+msgstr ""
+
+#: includes/countries.php:244
+msgid "Zimbabwe"
+msgstr ""
+
+#: includes/featured-jobs.php:15
+msgid "Featured Jobs RSS Feed"
+msgstr ""
+
+#: includes/featured-jobs.php:15
+msgid "Featured Jobs"
+msgstr ""
+
+#: includes/featured-jobs.php:58
+#, php-format
+msgid " &ndash; Posted by <a href=\"%s\">%s</a>"
+msgstr ""
+
+#: includes/featured-jobs.php:65
+#, php-format
+msgid "<a href=\"%s\">%s</a>"
+msgstr ""
+
+#: includes/sidebar-nav.php:4
+msgid "Browse by&hellip;"
+msgstr ""
+
+#: includes/sidebar-nav.php:5
+msgid "Tags"
+msgstr ""
+
+#: includes/sidebar-nav.php:17
+msgid "Job Type"
+msgstr ""
+
+#: includes/sidebar-nav.php:35
+msgid "Job Salary"
+msgstr ""
+
+#: includes/sidebar-nav.php:53
+msgid "Job Category"
+msgstr ""
+
+#: includes/sidebar-nav.php:67
+msgid "Date posted"
+msgstr ""
+
+#: includes/sidebar-nav.php:68
+msgid "Today"
+msgstr ""
+
+#: includes/sidebar-nav.php:69
+msgid "This Week"
+msgstr ""
+
+#: includes/sidebar-nav.php:70
+msgid "Last Week"
+msgstr ""
+
+#: includes/sidebar-nav.php:71
+msgid "This Month"
+msgstr ""
+
+#: includes/sidebar-resume-nav.php:5
+msgid "Speciality"
+msgstr ""
+
+#: includes/sidebar-resume-nav.php:6
+msgid "Group"
+msgstr ""
+
+#: includes/sidebar-resume-nav.php:71
+msgid "View all resumes"
+msgstr ""
+
+#: includes/sidebar-sjob.php:14
+msgid "for"
+msgstr ""
+
+#: includes/sidebar-sjob.php:14
+msgid "days"
+msgstr ""
+
+#: includes/sidebar-sjob.php:25
+#: includes/sidebar-user.php:9
+msgid "My Dashboard"
+msgstr ""
+
+#: includes/sidebar-sresume.php:5
+msgid "Submit your Resume"
+msgstr ""
+
+#: includes/sidebar-user.php:5
+msgid "Account Options"
+msgstr ""
+
+#: includes/sidebar-user.php:13
+msgid "View Profile"
+msgstr ""
+
+#: includes/sidebar-user.php:14
+msgid "Edit Profile"
+msgstr ""
+
+#: includes/sidebar-user.php:15
+msgid "WordPress Admin"
+msgstr ""
+
+#: includes/sidebar-user.php:16
+msgid "Log Out"
+msgstr ""
+
+#: includes/sidebar-user.php:25
+msgid "Account Info"
+msgstr ""
+
+#: includes/sidebar-user.php:29
+msgid "Username:"
+msgstr ""
+
+#: includes/sidebar-user.php:30
+msgid "Account type:"
+msgstr ""
+
+#: includes/sidebar-user.php:34
+msgid "Job Seeker"
+msgstr ""
+
+#: includes/sidebar-user.php:35
+msgid "Job Lister"
+msgstr ""
+
+#: includes/sidebar-user.php:38
+msgid "Member Since:"
+msgstr ""
+
+#: includes/sidebar-user.php:39
+msgid "Last Login:"
+msgstr ""
+
+#: includes/theme-actions.php:20
+msgid "Posted by"
+msgstr ""
+
+#: includes/theme-actions.php:38
+msgid "Tags:"
+msgstr ""
+
+#: includes/theme-actions.php:55
+msgid "No blog posts found."
+msgstr ""
+
+#: includes/theme-actions.php:64
+msgid "No matching resumes found."
+msgstr ""
+
+#: includes/theme-comments.php:28
+#: includes/theme-comments.php:118
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: includes/theme-comments.php:34
+#: includes/theme-comments.php:124
+msgid "Comment"
+msgstr ""
+
+#: includes/theme-comments.php:35
+#: includes/theme-comments.php:125
+msgid "made by"
+msgstr ""
+
+#: includes/theme-comments.php:36
+#: includes/theme-comments.php:126
+msgid "on"
+msgstr ""
+
+#: includes/theme-comments.php:37
+#: includes/theme-comments.php:127
+msgid "(Edit)"
+msgstr ""
+
+#: includes/theme-emails.php:22
+#: includes/theme-emails.php:132
+#: includes/theme-emails.php:213
+#: includes/theme-emails.php:572
+msgid "Dear Admin,"
+msgstr ""
+
+#: includes/theme-emails.php:23
+#, php-format
+msgid "A new order has just been submitted on your %s website."
+msgstr ""
+
+#: includes/theme-emails.php:25
+msgid "Order Details"
+msgstr ""
+
+#: includes/theme-emails.php:26
+#: includes/theme-emails.php:46
+#: includes/theme-emails.php:76
+#: includes/theme-emails.php:106
+#: includes/theme-emails.php:134
+#: includes/theme-emails.php:178
+#: includes/theme-emails.php:219
+#: includes/theme-emails.php:261
+#: includes/theme-emails.php:304
+#: includes/theme-emails.php:353
+#: includes/theme-emails.php:578
+msgid "-----------------"
+msgstr ""
+
+#: includes/theme-emails.php:27
+msgid "Order Cost: "
+msgstr ""
+
+#: includes/theme-emails.php:28
+msgid "User ID: "
+msgstr ""
+
+#: includes/theme-emails.php:29
+msgid "Pack ID: "
+msgstr ""
+
+#: includes/theme-emails.php:30
+msgid "Job ID: "
+msgstr ""
+
+#: includes/theme-emails.php:33
+msgid "View orders: "
+msgstr ""
+
+#: includes/theme-emails.php:45
+#: includes/theme-emails.php:174
+#: includes/theme-emails.php:257
+#: includes/theme-emails.php:349
+msgid "Job Details"
+msgstr ""
+
+#: includes/theme-emails.php:47
+#: includes/theme-emails.php:176
+#: includes/theme-emails.php:259
+#: includes/theme-emails.php:351
+msgid "Title: "
+msgstr ""
+
+#: includes/theme-emails.php:48
+#: includes/theme-emails.php:177
+#: includes/theme-emails.php:260
+#: includes/theme-emails.php:352
+msgid "Author: "
+msgstr ""
+
+#: includes/theme-emails.php:50
+#: includes/theme-emails.php:179
+msgid "Preview Job: "
+msgstr ""
+
+#: includes/theme-emails.php:51
+#: includes/theme-emails.php:180
+#: includes/theme-emails.php:263
+#, php-format
+msgid "Edit Job: %s"
+msgstr ""
+
+#: includes/theme-emails.php:54
+#: includes/theme-emails.php:137
+#: includes/theme-emails.php:222
+#: includes/theme-emails.php:307
+#: includes/theme-emails.php:406
+#: includes/theme-emails.php:542
+msgid "Regards,"
+msgstr ""
+
+#: includes/theme-emails.php:55
+#: includes/theme-emails.php:138
+#: includes/theme-emails.php:223
+#: includes/theme-emails.php:581
+msgid "JobRoller"
+msgstr ""
+
+#: includes/theme-emails.php:58
+#: includes/theme-emails.php:141
+#: includes/theme-emails.php:208
+#: includes/theme-emails.php:568
+msgid "JobRoller Admin"
+msgstr ""
+
+#: includes/theme-emails.php:59
+msgid "New Order"
+msgstr ""
+
+#: includes/theme-emails.php:73
+#, php-format
+msgid "Order number %s has just been completed on your %s website."
+msgstr ""
+
+#: includes/theme-emails.php:77
+msgid "Order Date: "
+msgstr ""
+
+#: includes/theme-emails.php:83
+msgid "Payment Date: "
+msgstr ""
+
+#: includes/theme-emails.php:84
+msgid "Payment Type: "
+msgstr ""
+
+#: includes/theme-emails.php:85
+msgid "Approval Method: "
+msgstr ""
+
+#: includes/theme-emails.php:86
+msgid "First name: "
+msgstr ""
+
+#: includes/theme-emails.php:87
+msgid "Last name: "
+msgstr ""
+
+#: includes/theme-emails.php:88
+msgid "Email: "
+msgstr ""
+
+#: includes/theme-emails.php:89
+msgid "Address: "
+msgstr ""
+
+#: includes/theme-emails.php:90
+msgid "Txn ID: "
+msgstr ""
+
+#: includes/theme-emails.php:93
+msgid "View completed orders: "
+msgstr ""
+
+#: includes/theme-emails.php:119
+msgid "Order Complete"
+msgstr ""
+
+#: includes/theme-emails.php:133
+#, php-format
+msgid "Order number %s has just been cancelled on your %s website."
+msgstr ""
+
+#: includes/theme-emails.php:135
+msgid "View cancelled orders: "
+msgstr ""
+
+#: includes/theme-emails.php:142
+msgid "Order Cancelled"
+msgstr ""
+
+#: includes/theme-emails.php:168
+msgid "New Job Pending Approval"
+msgstr ""
+
+#: includes/theme-emails.php:173
+#, php-format
+msgid "The following job listing has just been submitted on your %s website."
+msgstr ""
+
+#: includes/theme-emails.php:209
+msgid "Edited Job Pending Approval"
+msgstr ""
+
+#: includes/theme-emails.php:214
+#, php-format
+msgid "The following job listing has just been edited on your %s website."
+msgstr ""
+
+#: includes/theme-emails.php:251
+msgid "New Job Submitted"
+msgstr ""
+
+#: includes/theme-emails.php:262
+msgid "View Job: "
+msgstr ""
+
+#: includes/theme-emails.php:294
+#, php-format
+msgid "Your Job Submission on %s"
+msgstr ""
+
+#: includes/theme-emails.php:295
+#: includes/theme-emails.php:399
+#: includes/theme-emails.php:536
+#, php-format
+msgid "%s Admin"
+msgstr ""
+
+#: includes/theme-emails.php:298
+#: includes/theme-emails.php:401
+#: includes/theme-emails.php:539
+#, php-format
+msgid "Hi %s,"
+msgstr ""
+
+#: includes/theme-emails.php:299
+#, php-format
+msgid "Thank you for your recent submission! Your job listing has been submitted for review and will not appear live on our site until it has been approved. Below you will find a summary of your job listing on the %s website."
+msgstr ""
+
+#: includes/theme-emails.php:305
+msgid "You may check the status of your job(s) at anytime by logging into the \"My Jobs\" page."
+msgstr ""
+
+#: includes/theme-emails.php:308
+#: includes/theme-emails.php:407
+#: includes/theme-emails.php:543
+#, php-format
+msgid "Your %s Team"
+msgstr ""
+
+#: includes/theme-emails.php:326
+msgid " day"
+msgstr ""
+
+#: includes/theme-emails.php:343
+#, php-format
+msgid "Your Job Submission on %s expires in %s"
+msgstr ""
+
+#: includes/theme-emails.php:348
+#, php-format
+msgid "Your job listing is set to expire in %s"
+msgstr ""
+
+#: includes/theme-emails.php:398
+msgid "Your Job Has Been Approved"
+msgstr ""
+
+#: includes/theme-emails.php:402
+#, php-format
+msgid "Your job listing, \"%s\" has been approved and is now live on our site."
+msgstr ""
+
+#: includes/theme-emails.php:404
+msgid "You can view your job by clicking on the following link:"
+msgstr ""
+
+#: includes/theme-emails.php:419
+msgid "Your Job Has Expired"
+msgstr ""
+
+#: includes/theme-emails.php:423
+#, php-format
+msgid "Your job listing, \"%s\" has expired."
+msgstr ""
+
+#: includes/theme-emails.php:426
+msgid "If you would like to relist your job, please visit the \"My Jobs\" page and click the \"relist\" link."
+msgstr ""
+
+#: includes/theme-emails.php:467
+#, php-format
+msgid "New user registration on your site %s:"
+msgstr ""
+
+#: includes/theme-emails.php:468
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: includes/theme-emails.php:469
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: includes/theme-emails.php:471
+#, php-format
+msgid "[%s] New User Registration"
+msgstr ""
+
+#: includes/theme-emails.php:508
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: includes/theme-emails.php:511
+#, php-format
+msgid "[%s] Your username and password"
+msgstr ""
+
+#: includes/theme-emails.php:535
+#, php-format
+msgid "Your resume access subscription is now active on %s"
+msgstr ""
+
+#: includes/theme-emails.php:540
+#, php-format
+msgid "Your resume access subscription has just been activated. You can now browse resumes on %s."
+msgstr ""
+
+#: includes/theme-emails.php:569
+msgid "New Resume Subscription"
+msgstr ""
+
+#: includes/theme-emails.php:573
+#, php-format
+msgid "The following user has just been granted resume access on your %s website."
+msgstr ""
+
+#: includes/theme-emails.php:574
+msgid "User Details"
+msgstr ""
+
+#: includes/theme-emails.php:576
+msgid "Name: "
+msgstr ""
+
+#: includes/theme-emails.php:579
+msgid "View User: "
+msgstr ""
+
+#: includes/theme-footer.php:20
+msgid "Copyright &copy;"
+msgstr ""
+
+#: includes/theme-footer.php:20
+msgid "Powered by"
+msgstr ""
+
+#: includes/theme-functions.php:191
+msgid " is not readable or does not exist - check file permissions."
+msgstr ""
+
+#: includes/theme-functions.php:195
+msgid "JobRoller theme errors:"
+msgstr ""
+
+#: includes/theme-functions.php:266
+msgid "All JobRoller options have been deleted."
+msgstr ""
+
+#: includes/theme-functions.php:271
+msgid "Primary Navigation"
+msgstr ""
+
+#: includes/theme-functions.php:272
+msgid "Top Bar Navigation"
+msgstr ""
+
+#: includes/theme-functions.php:286
+msgid "&laquo; Previous page"
+msgstr ""
+
+#: includes/theme-functions.php:287
+msgid "Next page &raquo;"
+msgstr ""
+
+#: includes/theme-functions.php:290
+msgid "Back to top"
+msgstr ""
+
+#: includes/theme-functions.php:290
+msgid "Top &uarr;"
+msgstr ""
+
+#: includes/theme-functions.php:315
+msgid "day"
+msgstr ""
+
+#: includes/theme-functions.php:342
+msgid "<strong>NOTE:</strong> This job listing has expired and may no longer be relevant!"
+msgstr ""
+
+#: includes/theme-functions.php:570
+msgid "read more"
+msgstr ""
+
+#: includes/theme-functions.php:1003
+#: includes/theme-widgets.php:391
+msgid "New Job Listings"
+msgstr ""
+
+#: includes/theme-functions.php:1008
+msgid "Total Sales"
+msgstr ""
+
+#: includes/theme-functions.php:1081
+msgid "Radius:"
+msgstr ""
+
+#: includes/theme-geolocation.php:35
+msgid "Could not access Google Maps API. Your server may be blocking the request."
+msgstr ""
+
+#: includes/theme-login.php:57
+msgid "Retrieve your lost password for "
+msgstr ""
+
+#: includes/theme-login.php:62
+msgid "Login/Register at "
+msgstr ""
+
+#: includes/theme-login.php:67
+msgid "Your Profile at "
+msgstr ""
+
+#: includes/theme-login.php:94
+msgid "Cookies are blocked or not supported by your browser. You must enable cookies to continue."
+msgstr ""
+
+#: includes/theme-login.php:97
+msgid "You are now logged out."
+msgstr ""
+
+#: includes/theme-login.php:100
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: includes/theme-login.php:103
+msgid "Check your email for the confirmation link."
+msgstr ""
+
+#: includes/theme-login.php:106
+msgid "Check your email for your new password."
+msgstr ""
+
+#: includes/theme-login.php:109
+msgid "Registration complete. Please check your e-mail."
+msgstr ""
+
+#: includes/theme-login.php:117
+msgid "Login/Register"
+msgstr ""
+
+#: includes/theme-login.php:136
+msgid "You must login or create an account in order to post a job or submit your resume."
+msgstr ""
+
+#: includes/theme-login.php:139
+msgid "As a <strong>Job Seeker</strong> you'll be able to submit your profile, post your resume, and be found by employers."
+msgstr ""
+
+#: includes/theme-login.php:141
+msgid "As an <strong>employer</strong> you will be able to submit, relist, view and remove your job listings."
+msgstr ""
+
+#: includes/theme-login.php:145
+msgid "You must login or create an account in order to post a job &ndash; this will enable you to view, remove, or relist your listing in the future."
+msgstr ""
+
+#: includes/theme-login.php:200
+msgid "Sorry, that key does not appear to be valid."
+msgstr ""
+
+#: includes/theme-login.php:211
+msgid "Password Recovery"
+msgstr ""
+
+#: includes/theme-resumes.php:134
+#, php-format
+msgid "Access to %s's resume database"
+msgstr ""
+
+#: includes/theme-resumes.php:199
+msgid "Subscribe &rarr;"
+msgstr ""
+
+#: includes/theme-sidebars.php:19
+msgid "Main Sidebar"
+msgstr ""
+
+#: includes/theme-sidebars.php:29
+msgid "Blog Sidebar"
+msgstr ""
+
+#: includes/theme-sidebars.php:39
+msgid "Page Sidebar"
+msgstr ""
+
+#: includes/theme-sidebars.php:49
+msgid "Job Sidebar"
+msgstr ""
+
+#: includes/theme-sidebars.php:59
+msgid "User Sidebar"
+msgstr ""
+
+#: includes/theme-sidebars.php:69
+msgid "Submit Job Sidebar"
+msgstr ""
+
+#: includes/theme-sidebars.php:79
+msgid "Resume Sidebar"
+msgstr ""
+
+#: includes/theme-stats.php:36
+msgid "No views yet"
+msgstr ""
+
+#: includes/theme-stats.php:113
+msgid "views"
+msgstr ""
+
+#: includes/theme-stats.php:117
+msgid "No jobs viewed yet."
+msgstr ""
+
+#: includes/theme-support.php:77
+msgid "Logout"
+msgstr ""
+
+#: includes/theme-support.php:106
+msgid "Browse Resumes"
+msgstr ""
+
+#: includes/theme-users.php:16
+msgid "Current Job Packs"
+msgstr ""
+
+#: includes/theme-users.php:26
+#: includes/forms/application/application-form.php:37
+msgid "Name"
+msgstr ""
+
+#: includes/theme-users.php:27
+msgid "Jobs Remaining"
+msgstr ""
+
+#: includes/theme-users.php:28
+msgid "Job Duration"
+msgstr ""
+
+#: includes/theme-users.php:29
+msgid "Expires"
+msgstr ""
+
+#: includes/theme-users.php:30
+msgid "Delete pack?"
+msgstr ""
+
+#: includes/theme-users.php:64
+msgid "Assign job pack"
+msgstr ""
+
+#: includes/theme-users.php:66
+msgid "Choose a pack..."
+msgstr ""
+
+#: includes/theme-users.php:81
+msgid "Permissions"
+msgstr ""
+
+#: includes/theme-users.php:86
+msgid "Valid resume subscription?"
+msgstr ""
+
+#: includes/theme-users.php:93
+msgid "Define whether or not this user has a valid, active resume subscription."
+msgstr ""
+
+#: includes/theme-users.php:182
+msgid "Recruiter"
+msgstr ""
+
+#: includes/theme-users.php:255
+msgid "Career Status:"
+msgstr ""
+
+#: includes/theme-users.php:258
+msgid "Actively looking"
+msgstr ""
+
+#: includes/theme-users.php:261
+msgid "Open to new opportunities"
+msgstr ""
+
+#: includes/theme-users.php:264
+msgid "Not actively looking"
+msgstr ""
+
+#: includes/theme-users.php:273
+msgid "Availability:"
+msgstr ""
+
+#: includes/theme-users.php:275
+msgid "Immediate"
+msgstr ""
+
+#: includes/theme-users.php:278
+msgid "Willing to relocate:"
+msgstr ""
+
+#: includes/theme-users.php:281
+msgid "Willingness to travel:"
+msgstr ""
+
+#: includes/theme-users.php:284
+msgid "Willing to travel"
+msgstr ""
+
+#: includes/theme-users.php:287
+msgid "Fairly willing to travel"
+msgstr ""
+
+#: includes/theme-users.php:290
+msgid "Not very willing to travel"
+msgstr ""
+
+#: includes/theme-users.php:293
+msgid "Local opportunities only"
+msgstr ""
+
+#: includes/theme-users.php:296
+msgid "Not willing to travel/working from home"
+msgstr ""
+
+#: includes/theme-widgets.php:14
+msgid "Places an ad space in the sidebar for 125x125 ads"
+msgstr ""
+
+#: includes/theme-widgets.php:16
+msgid "125x125 Ad Space"
+msgstr ""
+
+#: includes/theme-widgets.php:79
+msgid "Sponsored Ads"
+msgstr ""
+
+#: includes/theme-widgets.php:83
+#: includes/theme-widgets.php:231
+#: includes/theme-widgets.php:442
+#: includes/theme-widgets.php:667
+#: includes/theme-widgets.php:830
+#: includes/theme-widgets.php:953
+msgid "Title:"
+msgstr ""
+
+#: includes/theme-widgets.php:88
+msgid "Ads:"
+msgstr ""
+
+#: includes/theme-widgets.php:90
+msgid "Enter one ad entry per line in the following format:<br /> <code>URL|Image URL|Image Alt Text|rel</code><br /><strong>Note:</strong> You must hit your &quot;enter/return&quot; key after each ad entry otherwise the ads will not display properly."
+msgstr ""
+
+#: includes/theme-widgets.php:95
+msgid "Open ads in a new window?"
+msgstr ""
+
+#: includes/theme-widgets.php:105
+msgid "Places an ad space in the sidebar for a 250x250 ad"
+msgstr ""
+
+#: includes/theme-widgets.php:107
+msgid "250x250 Ad Space"
+msgstr ""
+
+#: includes/theme-widgets.php:178
+msgid "Open ad in a new window?"
+msgstr ""
+
+#: includes/theme-widgets.php:188
+msgid "Displays Job Packs and Pricing information to the user."
+msgstr ""
+
+#: includes/theme-widgets.php:196
+msgid "Available Job Packs"
+msgstr ""
+
+#: includes/theme-widgets.php:207
+msgid " usable within "
+msgstr ""
+
+#: includes/theme-widgets.php:212
+msgid "Free"
+msgstr ""
+
+#: includes/theme-widgets.php:242
+msgid "This places a Facebook page Like Box in your sidebar to attract and gain Likes from visitors."
+msgstr ""
+
+#: includes/theme-widgets.php:243
+msgid "Facebook Like Box"
+msgstr ""
+
+#: includes/theme-widgets.php:284
+msgid "Facebook Friends"
+msgstr ""
+
+#: includes/theme-widgets.php:294
+msgid "Facebook ID:"
+msgstr ""
+
+#: includes/theme-widgets.php:300
+msgid "Connections"
+msgstr ""
+
+#: includes/theme-widgets.php:305
+msgid "Width"
+msgstr ""
+
+#: includes/theme-widgets.php:310
+msgid "Height"
+msgstr ""
+
+#: includes/theme-widgets.php:324
+msgid "This places Twitter and RSS Feed icons in your sidebar."
+msgstr ""
+
+#: includes/theme-widgets.php:325
+msgid "Twitter &amp; RSS Icons"
+msgstr ""
+
+#: includes/theme-widgets.php:336
+msgid "Subscribe"
+msgstr ""
+
+#: includes/theme-widgets.php:337
+msgid "Receive the latest job listings"
+msgstr ""
+
+#: includes/theme-widgets.php:339
+msgid "Follow Us"
+msgstr ""
+
+#: includes/theme-widgets.php:340
+msgid "Come join us on Twitter"
+msgstr ""
+
+#: includes/theme-widgets.php:356
+msgid "There are no options for this widget."
+msgstr ""
+
+#: includes/theme-widgets.php:368
+msgid "The most recent job listings on your site"
+msgstr ""
+
+#: includes/theme-widgets.php:445
+msgid "Number of jobs to show:"
+msgstr ""
+
+#: includes/theme-widgets.php:456
+msgid "A list or dropdown of job categories"
+msgstr ""
+
+#: includes/theme-widgets.php:457
+msgid "Job Categories"
+msgstr ""
+
+#: includes/theme-widgets.php:475
+msgid "Select Category"
+msgstr ""
+
+#: includes/theme-widgets.php:531
+msgid "Show as dropdown"
+msgstr ""
+
+#: includes/theme-widgets.php:534
+msgid "Show post counts"
+msgstr ""
+
+#: includes/theme-widgets.php:537
+msgid "Show hierarchy"
+msgstr ""
+
+#: includes/theme-widgets.php:548
+msgid "This places a real-time Twitter feed in your sidebar."
+msgstr ""
+
+#: includes/theme-widgets.php:549
+msgid "Real-Time Twitter Feed"
+msgstr ""
+
+#: includes/theme-widgets.php:672
+msgid "Twitter Username:"
+msgstr ""
+
+#: includes/theme-widgets.php:677
+msgid "Twitter API Key:"
+msgstr ""
+
+#: includes/theme-widgets.php:682
+msgid "Keyword Tweets:"
+msgstr ""
+
+#: includes/theme-widgets.php:687
+msgid "Display Type:"
+msgstr ""
+
+#: includes/theme-widgets.php:689
+msgid "username"
+msgstr ""
+
+#: includes/theme-widgets.php:689
+msgid "Show Username Tweets"
+msgstr ""
+
+#: includes/theme-widgets.php:690
+msgid "keywords"
+msgstr ""
+
+#: includes/theme-widgets.php:690
+msgid "Show Keyword Tweets"
+msgstr ""
+
+#: includes/theme-widgets.php:695
+msgid "Refresh Mode:"
+msgstr ""
+
+#: includes/theme-widgets.php:697
+#: includes/forms/application/application-form.php:43
+msgid "None"
+msgstr ""
+
+#: includes/theme-widgets.php:698
+msgid "Real-Time Updates"
+msgstr ""
+
+#: includes/theme-widgets.php:699
+msgid "Click Button Updates"
+msgstr ""
+
+#: includes/theme-widgets.php:704
+msgid "Paging Style:"
+msgstr ""
+
+#: includes/theme-widgets.php:706
+msgid "More Button"
+msgstr ""
+
+#: includes/theme-widgets.php:707
+msgid "Next &amp; Previous Buttons"
+msgstr ""
+
+#: includes/theme-widgets.php:708
+msgid "Endless Scrolling"
+msgstr ""
+
+#: includes/theme-widgets.php:714
+msgid "Tweets Shown"
+msgstr ""
+
+#: includes/theme-widgets.php:719
+msgid "Default Language"
+msgstr ""
+
+#: includes/theme-widgets.php:724
+msgid "Show Follow Button"
+msgstr ""
+
+#: includes/theme-widgets.php:727
+msgid "Show Connect Button"
+msgstr ""
+
+#: includes/theme-widgets.php:740
+msgid "Your sidebar top listings today"
+msgstr ""
+
+#: includes/theme-widgets.php:741
+msgid "Popular Listings Today"
+msgstr ""
+
+#: includes/theme-widgets.php:751
+msgid "Popular Jobs Today"
+msgstr ""
+
+#: includes/theme-widgets.php:753
+msgid "Popular Resumes Today"
+msgstr ""
+
+#: includes/theme-widgets.php:778
+msgid "Post type:"
+msgstr ""
+
+#: includes/theme-widgets.php:781
+msgid "Resume"
+msgstr ""
+
+#: includes/theme-widgets.php:794
+msgid "Your sidebar top listings overall"
+msgstr ""
+
+#: includes/theme-widgets.php:795
+msgid "Popular listings Overall"
+msgstr ""
+
+#: includes/theme-widgets.php:805
+msgid "Popular Jobs Overall"
+msgstr ""
+
+#: includes/theme-widgets.php:807
+msgid "Popular Resumes Overall"
+msgstr ""
+
+#: includes/theme-widgets.php:848
+msgid "Your most used job tags in cloud format"
+msgstr ""
+
+#: includes/theme-widgets.php:849
+msgid "Jobs Tag Cloud"
+msgstr ""
+
+#: includes/theme-widgets.php:859
+msgid "Job Tags"
+msgstr ""
+
+#: includes/theme-widgets.php:888
+msgid "Taxonomy:"
+msgstr ""
+
+#: includes/theme-widgets.php:916
+msgid "Your most used resume tags in cloud format"
+msgstr ""
+
+#: includes/theme-widgets.php:917
+msgid "Resumes Tag Cloud"
+msgstr ""
+
+#: includes/theme-widgets.php:927
+msgid "Resume Tags"
+msgstr ""
+
+#: includes/theme-widgets.php:984
+msgid "A list of resume categories"
+msgstr ""
+
+#: includes/theme-widgets.php:985
+msgid "Resume Categories"
+msgstr ""
+
+#: includes/forms/application/application-form.php:33
+msgid "Apply for this Job"
+msgstr ""
+
+#: includes/forms/application/application-form.php:42
+msgid "Link to Resum&eacute;"
+msgstr ""
+
+#: includes/forms/application/application-form.php:69
+msgid "Upload resum&eacute; (zip, pdf, doc, txt, rtf)"
+msgstr ""
+
+#: includes/forms/application/application-form.php:70
+msgid "Upload cover letter (zip, pdf, doc, txt, rtf)"
+msgstr ""
+
+#: includes/forms/application/application-form.php:73
+msgid "This is to prevent spam"
+msgstr ""
+
+#: includes/forms/application/application-form.php:76
+msgid "Apply for Job"
+msgstr ""
+
+#: includes/forms/application/application-process.php:46
+#: includes/forms/edit-job/edit-job-process.php:70
+#: includes/forms/edit-job/relist-job-process.php:76
+msgid "<strong>ERROR</strong>: &ldquo;"
+msgstr ""
+
+#: includes/forms/application/application-process.php:46
+#: includes/forms/edit-job/edit-job-process.php:70
+#: includes/forms/edit-job/relist-job-process.php:76
+msgid "&rdquo; is a required field."
+msgstr ""
+
+#: includes/forms/application/application-process.php:54
+msgid "<strong>ERROR</strong>: Incorrect anti-spam answer. The correct answer is "
+msgstr ""
+
+#: includes/forms/application/application-process.php:60
+#: includes/forms/register/register-process.php:93
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr ""
+
+#: includes/forms/application/application-process.php:62
+#: includes/forms/register/register-process.php:95
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr ""
+
+#: includes/forms/application/application-process.php:78
+msgid "<strong>ERROR</strong>: Invalid resume."
+msgstr ""
+
+#: includes/forms/application/application-process.php:96
+#: includes/forms/application/application-process.php:101
+msgid "<strong>ERROR</strong>: Only pdf, zip, doc, txt and rtf files are allowed."
+msgstr ""
+
+#: includes/forms/application/application-process.php:121
+#: includes/forms/application/application-process.php:141
+#: includes/forms/application/application-process.php:151
+#: includes/forms/edit-job/edit-job-process.php:124
+#: includes/forms/edit-job/relist-job-process.php:130
+msgid "<strong>ERROR</strong>: "
+msgstr ""
+
+#: includes/forms/application/application-process.php:163
+msgid "From: "
+msgstr ""
+
+#: includes/forms/application/application-process.php:164
+msgid "Applicant Name: "
+msgstr ""
+
+#: includes/forms/application/application-process.php:164
+msgid "Applicant Email: "
+msgstr ""
+
+#: includes/forms/application/application-process.php:181
+msgid "Applicant's online resume: "
+msgstr ""
+
+#: includes/forms/application/application-process.php:187
+msgid "Application for job \""
+msgstr ""
+
+#: includes/forms/application/application-process.php:190
+#: includes/forms/application/application-process.php:194
+msgid "[copy] Application for job \""
+msgstr ""
+
+#: includes/forms/application/application-process.php:204
+msgid "Your application has been sent successfully."
+msgstr ""
+
+#: includes/forms/confirm-job/confirm-job-form.php:55
+msgid "Your job is ready to be submitted, check the details are correct and then click &ldquo;confirm&rdquo; to submit your listing"
+msgstr ""
+
+#: includes/forms/confirm-job/confirm-job-form.php:56
+msgid " for approval"
+msgstr ""
+
+#: includes/forms/confirm-job/confirm-job-form.php:65
+msgid "Company/Poster"
+msgstr ""
+
+#: includes/forms/confirm-job/confirm-job-form.php:74
+#: includes/forms/confirm-job/confirm-job-process.php:60
+#: includes/forms/edit-job/edit-job-process.php:60
+#: includes/forms/edit-job/relist-job-process.php:66
+#: includes/forms/preview-job/preview-job-form.php:68
+msgid "Job description"
+msgstr ""
+
+#: includes/forms/confirm-job/confirm-job-form.php:77
+#: includes/forms/edit-job/edit-job-form.php:142
+#: includes/forms/preview-job/preview-job-form.php:71
+msgid "How to apply"
+msgstr ""
+
+#: includes/forms/confirm-job/confirm-job-form.php:86
+msgid "After confirming your submission you will be taken to the payment page and charged "
+msgstr ""
+
+#: includes/forms/confirm-job/confirm-job-form.php:88
+msgid " &mdash; as soon as your payment clears your listing will become active."
+msgstr ""
+
+#: includes/forms/confirm-job/confirm-job-form.php:94
+#: includes/forms/preview-job/preview-job-form.php:157
+msgid "Go Back"
+msgstr ""
+
+#: includes/forms/confirm-job/confirm-job-form.php:95
+msgid "Confirm &amp; Submit"
+msgstr ""
+
+#: includes/forms/confirm-job/confirm-job-process.php:31
+#: includes/forms/edit-job/relist-job-process.php:155
+msgid "Error: Invalid Pack."
+msgstr ""
+
+#: includes/forms/confirm-job/confirm-job-process.php:58
+#: includes/forms/edit-job/edit-job-form.php:32
+#: includes/forms/edit-job/edit-job-process.php:58
+#: includes/forms/edit-job/relist-job-process.php:64
+msgid "Job title"
+msgstr ""
+
+#: includes/forms/confirm-job/confirm-job-process.php:59
+#: includes/forms/edit-job/edit-job-form.php:33
+#: includes/forms/edit-job/edit-job-process.php:59
+#: includes/forms/edit-job/relist-job-process.php:65
+msgid "Job type"
+msgstr ""
+
+#: includes/forms/confirm-job/confirm-job-process.php:64
+#: includes/forms/confirm-job/confirm-job-process.php:103
+msgid "Error: Unable to create entry."
+msgstr ""
+
+#: includes/forms/confirm-job/confirm-job-process.php:255
+msgid "Job Listing "
+msgstr ""
+
+#: includes/forms/confirm-job/confirm-job-process.php:255
+msgid " with Job Pack "
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-form.php:23
+msgid "Company Details"
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-form.php:24
+msgid "Fill in the company section to provide details of the company listing the job. Leave this section blank to show your display name and profile page link instead."
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-form.php:27
+msgid "Logo (.jpg, .gif or .png)"
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-form.php:31
+msgid "Enter details about the job below. Be as descriptive as possible so that potential candidates can find your job listing easily."
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-form.php:108
+msgid "Tags (comma separated)"
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-form.php:122
+msgid "Job Location"
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-form.php:123
+msgid "Leave blank if the location of the applicant does not matter e.g. the job involves working from home."
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-form.php:127
+msgid "Find Address/Location"
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-form.php:136
+msgid "Give details about the position, such as responsibilities &amp; salary."
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-form.php:136
+#: includes/forms/edit-job/edit-job-form.php:143
+msgid " HTML is not allowed."
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-form.php:143
+msgid "Tell applicants how to apply &ndash; they will also be able to email you via the &ldquo;apply&rdquo; form on your job listing's page."
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-form.php:156
+#: includes/forms/preview-job/preview-job-form.php:81
+msgid "Select a Job Pack:"
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-form.php:164
+#: includes/forms/edit-job/edit-job-form.php:201
+#: includes/forms/preview-job/preview-job-form.php:89
+#: includes/forms/preview-job/preview-job-form.php:126
+msgid "Choose this pack"
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-form.php:198
+#: includes/forms/preview-job/preview-job-form.php:123
+msgid "Buy this pack"
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-form.php:224
+#: includes/forms/preview-job/preview-job-form.php:147
+msgid "Feature your listing for "
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-form.php:224
+#: includes/forms/preview-job/preview-job-form.php:147
+msgid "?"
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-form.php:226
+#: includes/forms/preview-job/preview-job-form.php:149
+msgid "Featured listings are displayed on the homepage and are also highlighted in all other listing pages."
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-form.php:228
+#: includes/forms/preview-job/preview-job-form.php:151
+msgid "Yes please, feature my listing."
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-form.php:238
+msgid "Relist &rarr;"
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-form.php:238
+#: includes/forms/seeker-prefs/seeker-prefs-form.php:113
+msgid "Save &rarr;"
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-process.php:64
+#: includes/forms/edit-job/relist-job-process.php:70
+msgid "Job category"
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-process.php:98
+#: includes/forms/edit-job/relist-job-process.php:104
+msgid "<strong>ERROR</strong>: Only jpg, gif, and png images are allowed."
+msgstr ""
+
+#: includes/forms/edit-job/edit-job-process.php:296
+msgid "Job edited successfully"
+msgstr ""
+
+#: includes/forms/edit-job/relist-job-process.php:341
+msgid "Relisting "
+msgstr ""
+
+#: includes/forms/edit-job/relist-job-process.php:341
+msgid " w/ Job Pack "
+msgstr ""
+
+#: includes/forms/edit-job/relist-job-process.php:352
+msgid "Job Re-Listed "
+msgstr ""
+
+#: includes/forms/edit-job/relist-job-process.php:352
+msgid "A job has been re-listed called  "
+msgstr ""
+
+#: includes/forms/edit-job/relist-job-process.php:352
+msgid "ID"
+msgstr ""
+
+#: includes/forms/filter/filter-form.php:33
+msgid "Filter"
+msgstr ""
+
+#: includes/forms/forgot-password/forgot-password-form.php:16
+msgid "Please enter your username or email address. A new password will be emailed to you."
+msgstr ""
+
+#: includes/forms/forgot-password/forgot-password-form.php:19
+msgid "Username/Email"
+msgstr ""
+
+#: includes/forms/forgot-password/forgot-password-form.php:21
+msgid "Get New Password"
+msgstr ""
+
+#: includes/forms/login/login-form.php:22
+msgid "Already have an account?"
+msgstr ""
+
+#: includes/forms/login/login-form.php:27
+#: includes/forms/register/register-form.php:47
+msgid "Username"
+msgstr ""
+
+#: includes/forms/login/login-form.php:32
+msgid "Password"
+msgstr ""
+
+#: includes/forms/login/login-form.php:39
+msgid "Login &rarr;"
+msgstr ""
+
+#: includes/forms/login/login-form.php:40
+msgid "Password Lost and Found"
+msgstr ""
+
+#: includes/forms/login/login-form.php:40
+msgid "Lost your password?"
+msgstr ""
+
+#: includes/forms/preview-job/preview-job-form.php:20
+msgid "Below is a preview of what your job listing will look like when published:"
+msgstr ""
+
+#: includes/forms/preview-job/preview-job-form.php:47
+msgid "_Location"
+msgstr ""
+
+#: includes/forms/preview-job/preview-job-form.php:65
+msgid "The job listing&rsquo;s page will contain the following information:"
+msgstr ""
+
+#: includes/forms/preview-job/preview-job-form.php:158
+msgid "Next &rarr;"
+msgstr ""
+
+#: includes/forms/register/register-form.php:23
+msgid "Create a free account"
+msgstr ""
+
+#: includes/forms/register/register-form.php:32
+msgid "I am an <strong>Employer</strong>"
+msgstr ""
+
+#: includes/forms/register/register-form.php:33
+msgid "I am a <strong>Job Seeker</strong>"
+msgstr ""
+
+#: includes/forms/register/register-form.php:58
+msgid "Enter a password"
+msgstr ""
+
+#: includes/forms/register/register-form.php:63
+msgid "Enter password again"
+msgstr ""
+
+#: includes/forms/register/register-form.php:74
+msgid "I accept the "
+msgstr ""
+
+#: includes/forms/register/register-form.php:74
+msgid "terms &amp; conditions"
+msgstr ""
+
+#: includes/forms/register/register-form.php:78
+msgid "Create Account &rarr;"
+msgstr ""
+
+#: includes/forms/register/register-process.php:66
+msgid "<strong>Notice</strong>: You must accept our terms and conditions in order to register."
+msgstr ""
+
+#: includes/forms/register/register-process.php:71
+msgid "<strong>Notice</strong>: Please select a role."
+msgstr ""
+
+#: includes/forms/register/register-process.php:75
+msgid "<strong>Notice</strong>: Invalid Role!"
+msgstr ""
+
+#: includes/forms/register/register-process.php:84
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr ""
+
+#: includes/forms/register/register-process.php:86
+msgid "<strong>ERROR</strong>: This username is invalid.  Please enter a valid username."
+msgstr ""
+
+#: includes/forms/register/register-process.php:89
+msgid "<strong>ERROR</strong>: This username is already registered, please choose another one."
+msgstr ""
+
+#: includes/forms/register/register-process.php:98
+msgid "<strong>ERROR</strong>: This email is already registered, please choose another one."
+msgstr ""
+
+#: includes/forms/register/register-process.php:103
+msgid "<strong>ERROR</strong>: Please enter a password."
+msgstr ""
+
+#: includes/forms/register/register-process.php:105
+msgid "<strong>ERROR</strong>: Please enter password twice."
+msgstr ""
+
+#: includes/forms/register/register-process.php:107
+msgid "<strong>ERROR</strong>: Passwords do not match."
+msgstr ""
+
+#: includes/forms/register/register-process.php:116
+msgid "<strong>ERROR</strong>: The reCaptcha anti-spam response was incorrect."
+msgstr ""
+
+#: includes/forms/register/register-process.php:129
+#, php-format
+msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+
+#: includes/forms/resume/edit_parts.php:10
+msgid "Add Website"
+msgstr ""
+
+#: includes/forms/resume/edit_parts.php:11
+msgid "Add a website below to add it to your resume e.g. your portfolio or a Twitter account."
+msgstr ""
+
+#: includes/forms/resume/edit_parts.php:13
+msgid "Website Name"
+msgstr ""
+
+#: includes/forms/resume/edit_parts.php:14
+msgid "Website URL"
+msgstr ""
+
+#: includes/forms/resume/edit_parts.php:16
+msgid "Add"
+msgstr ""
+
+#: includes/forms/resume/edit_parts.php:28
+msgid "Name and URL are required fields."
+msgstr ""
+
+#: includes/forms/resume/edit_parts.php:64
+msgid "Website Added"
+msgstr ""
+
+#: includes/forms/resume/edit_parts.php:82
+msgid "Website successfully deleted"
+msgstr ""
+
+#: includes/forms/seeker-prefs/seeker-prefs-form.php:36
+msgid "Publicly visible details"
+msgstr ""
+
+#: includes/forms/seeker-prefs/seeker-prefs-form.php:37
+msgid "These options control what is shown publicly on your resumes."
+msgstr ""
+
+#: includes/forms/seeker-prefs/seeker-prefs-form.php:42
+msgid "Your Availability <small>(Leave blank for immediate availability)</small>"
+msgstr ""
+
+#: includes/forms/seeker-prefs/seeker-prefs-form.php:45
+msgid "Month&hellip;"
+msgstr ""
+
+#: includes/forms/seeker-prefs/seeker-prefs-form.php:55
+msgid "YYYY"
+msgstr ""
+
+#: includes/forms/seeker-prefs/seeker-prefs-form.php:62
+msgid "Your Career"
+msgstr ""
+
+#: includes/forms/seeker-prefs/seeker-prefs-form.php:63
+msgid "Career status"
+msgstr ""
+
+#: includes/forms/seeker-prefs/seeker-prefs-form.php:68
+msgid "Are you willing to relocate?"
+msgstr ""
+
+#: includes/forms/seeker-prefs/seeker-prefs-form.php:72
+msgid "Are you willing to travel?"
+msgstr ""
+
+#: includes/forms/seeker-prefs/seeker-prefs-form.php:73
+msgid "100% willing to travel"
+msgstr ""
+
+#: includes/forms/seeker-prefs/seeker-prefs-form.php:76
+msgid "Interested in local opportunities only"
+msgstr ""
+
+#: includes/forms/seeker-prefs/seeker-prefs-form.php:79
+msgid "Where are you authorised to work?"
+msgstr ""
+
+#: includes/forms/seeker-prefs/seeker-prefs-form.php:80
+msgid "e.g. United States, United Kingdom"
+msgstr ""
+
+#: includes/forms/seeker-prefs/seeker-prefs-form.php:85
+msgid "Other Information"
+msgstr ""
+
+#: includes/forms/seeker-prefs/seeker-prefs-form.php:86
+msgid "These options control what job recommendations your receive on your dashboard."
+msgstr ""
+
+#: includes/forms/seeker-prefs/seeker-prefs-form.php:88
+msgid "Key Words <small>(comma separated)</small>"
+msgstr ""
+
+#: includes/forms/seeker-prefs/seeker-prefs-form.php:88
+msgid "e.g. Web Design, Designer"
+msgstr ""
+
+#: includes/forms/seeker-prefs/seeker-prefs-form.php:90
+msgid "Search location"
+msgstr ""
+
+#: includes/forms/seeker-prefs/seeker-prefs-form.php:91
+msgid "e.g. London, United Kingdom"
+msgstr ""
+
+#: includes/forms/seeker-prefs/seeker-prefs-form.php:93
+msgid "Types of Job"
+msgstr ""
+
+#: includes/forms/seeker-prefs/seeker-prefs-process.php:63
+msgid "Preferences Saved"
+msgstr ""
+
+#: includes/forms/submit-job/submit-job-form.php:63
+#: includes/forms/submit-resume/submit-resume-form.php:51
+msgid "Select a category&hellip;"
+msgstr ""
+
+#: includes/forms/submit-job/submit-job-form.php:81
+msgid "Select a salary&hellip;"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:26
+msgid "Enter your resume details below. Once saved you will be able to view your resume and optionally add links to your websites/social networks if you wish."
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:29
+msgid "Your Resume"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:31
+msgid "Resume Title"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:31
+msgid "e.g. Lead Developer"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:33
+msgid "Resume Summary"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:33
+msgid "Briefly describe yourself."
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:35
+msgid "Resume Category"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:55
+msgid "Resume Photo (.jpg, .gif or .png)"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:57
+msgid "Desired Salary"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:57
+msgid "e.g. $25,000"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:59
+msgid "Desired Type of Position"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:60
+msgid "Any"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:76
+msgid "Your Contact Details"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:78
+msgid "Optionally fill in your contact details below to have them appear on your resume. This is important if you want employers to be able to contact you!"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:80
+msgid "Email Address"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:80
+msgid "you@yourdomain.com"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:81
+msgid "Telephone"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:81
+msgid "Telephone including area code"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:82
+msgid "Mobile number"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:87
+msgid "Resume Location"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:88
+msgid "Entering your location will help employers find you."
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:101
+msgid "Detail your education, including details on your qualifications and schools/universities attended."
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:106
+msgid "Detail your work experience, including details on your employers and job roles and responsibilities."
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:111
+msgid "Skills &amp; Specialities"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:113
+msgid "Skills <small>(one per line)</small>"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:113
+msgid "e.g. XHTML (5 years experience)"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:115
+msgid "Specialities <small>e.g. Public speaking, Team management</small>"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:115
+msgid "e.g. Public Speaking, Team Management"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:117
+msgid "Groups/Associations <small>e.g. IEEE, W3C</small>"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:117
+msgid "e.g. IEEE, W3C"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:119
+msgid "Spoken Languages <small>e.g. English, French</small>"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-form.php:119
+msgid "e.g. English, French"
+msgstr ""
+
+#: includes/forms/submit-resume/submit-resume-process.php:56
+msgid "Resume name"
+msgstr ""
+
+#: includes/indeed/theme-indeed.php:197
+msgid "Sponsored Job Listings"
+msgstr ""
+
+#: includes/indeed/theme-indeed.php:324
+#, php-format
+msgid "Sponsored Search Results for &ldquo;%s&rdquo;"
+msgstr ""
+

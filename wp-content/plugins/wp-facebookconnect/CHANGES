@@ -1,0 +1,14 @@
+
+= 1.2.0 -> 1.3.0 =
+
+ - Add a "Like" button to posts
+ - No longer set user_email because it no longer works, and overwrites
+   user-entered addresses
+
+= 1.1.2 -> 1.2.0 =
+
+ - Template bundles have been replaced with the stream.publish API.
+   Any template customizations will need to be updated for this API.
+
+
+
